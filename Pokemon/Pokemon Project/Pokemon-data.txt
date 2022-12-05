@@ -1,0 +1,25 @@
+Ho-oh,10,300,100,200,300,250,100
+Sunny day,10,10,90,90,7
+Fire blast,10,10,70,95,7
+sky attack,10,10,75,100,7
+psychic,10,10,60,100,7
+Blastoise,10,300,100,200,300,250,100
+water pump,10,10,90,90,7
+water pulse,10,10,70,95,7
+surf,10,10,75,100,7
+Water dance,10,10,60,100,7
+Gyarados,10,300,100,200,300,250,100
+water pump,10,10,90,90,7
+water pulse,10,10,70,95,7
+surf,10,10,75,100,7
+Water dance,10,10,60,100,7
+Rhyperior,10,300,100,200,300,250,100
+earthquake,10,10,90,90,7
+rock wrecker,10,10,70,95,7
+smackdown,10,10,75,100,7
+stone edge,10,10,60,100,7
+Arceus,10,300,100,200,300,250,100
+Judgement,10,10,90,95,7
+Swords dance,10,10,70,90,7
+Hyper beam,10,10,75,100,7
+Shadow claw,10,10,60,100,7
